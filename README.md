@@ -14,6 +14,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </div>
  
   <hr>
@@ -25,7 +26,7 @@
  <a href="https://discord.gg/Lucas_Zanin#3326" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lukas.zanin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-zanin-083167106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW0N0tnUPTwHOoG7nno9mTt-HnHZaHA3aQNZ3xJBorG67QSKzlt3Ee2qTiJtP0FlJP0VM&usqp=CAU">
+   <img height="130" width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW0N0tnUPTwHOoG7nno9mTt-HnHZaHA3aQNZ3xJBorG67QSKzlt3Ee2qTiJtP0FlJP0VM&usqp=CAU">
   <hr>
  
 
