@@ -1,4 +1,12 @@
 <div>
+  <h1>Olá eu sou Lucas Zanin</h1>
+  <h2>Apaixonado por tecnologia e amante do desenvolvimento web Front-End</h2>
+  <hr>
+  <ul>
+    <li>Atualmente Estudando Javascrip Intermediário</li>
+    <li>Já tenho familiaridade com CSS Grid layout/ CSS Flexbox / Html Avançado</li>
+  </ul>
+  
   <a href="https://github.com/Lucaszanin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaszanin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaszanin&layout=compact&langs_count=6&theme=radical"/>
