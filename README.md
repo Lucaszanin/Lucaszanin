@@ -2,7 +2,7 @@
   <h1>Olá eu sou Lucas Zanin</h1>
   <h2>Apaixonado por tecnologia, atualmente cursando desenvolvimento web Front-End</h2>
   <ul>
-    <li>Atualmente no Cruso Devquest de Desenvolvimento Front-End com mentorias em Grupo</li>
+    <li>Atualmente no Curso Devquest de Desenvolvimento Front-End com mentorias em Grupo</li>
     <li>Já tenho familiaridade com CSS Grid layout/ CSS Flexbox / Html / Javascript</li>
   </ul>
   
