@@ -1,9 +1,11 @@
 <div>
   <h1>Olá eu sou Lucas Zanin</h1>
-  <h2>Apaixonado por tecnologia, atualmente cursando desenvolvimento web Front-End</h2>
+  <h2>Apaixonado por tecnologia,nerd e atualmente cursando desenvolvimento web Front-End</h2>
+  <h2>Certificações</h2>
   <ul>
-    <li>Atualmente no Curso Devquest de Desenvolvimento Front-End com monitorias em Grupo</li>
-    <li>Já tenho familiaridade com CSS Grid layout/ CSS Flexbox / Html / Javascript</li>
+    <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React  Em andamento🎯</li>
+     <li>Curso Origamid CSS Flexbox Concluido ✔</li>
+     <li>Curso Origamid JavaScript ES6 🎯</li>
   </ul>
   
   <a href="https://github.com/Lucaszanin">
