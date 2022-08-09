@@ -3,9 +3,9 @@
   <h2>Apaixonado por tecnologia, nerd e atualmente cursando desenvolvimento web Front-End</h2>
   <h2>Certificações</h2>
   <ul>
-    <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React  Em andamento🎯</li>
-     <li>Curso Origamid CSS Flexbox Concluido ✔</li>
-     <li>Curso Origamid JavaScript ES6 🎯</li>
+    <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Em andamento🎯</li>
+     <li>Curso Origamid CSS Flexbox ->(Status) Concluido ✔</li>
+     <li>Curso Origamid JavaScript ES6 ->(Status) Em andamento🎯</li>
   </ul>
   
   <a href="https://github.com/Lucaszanin">
