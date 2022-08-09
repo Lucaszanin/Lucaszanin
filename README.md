@@ -1,6 +1,6 @@
 <div>
   <h1>Olá eu sou Lucas Zanin</h1>
-  <h2>Apaixonado por tecnologia,nerd e atualmente cursando desenvolvimento web Front-End</h2>
+  <h2>Apaixonado por tecnologia, nerd e atualmente cursando desenvolvimento web Front-End</h2>
   <h2>Certificações</h2>
   <ul>
     <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React  Em andamento🎯</li>
