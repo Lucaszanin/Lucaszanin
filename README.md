@@ -1,9 +1,10 @@
 <div>
   <h1>Olá eu sou Lucas Zanin</h1>
-  <h2>Apaixonado por tecnologia, nerd e atualmente cursando desenvolvimento web Front-End</h2>
+  <h2>Apaixonado por tecnologia, nerd e profundando os conhecimentos na área de desenvolvimento Front-End</h2>
+  <h2>Desenvolvedor Front-End Junior na M3 E-comerce</h2>
   <h2>Certificações</h2>
   <ul>
-    <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Em andamento🎯</li>
+    <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido🎯</li>
      <li>Curso Origamid CSS Flexbox ->(Status) Concluido ✔</li>
      <li>Curso Origamid JavaScript ES6 ->(Status) Em andamento🎯</li>
   </ul>
