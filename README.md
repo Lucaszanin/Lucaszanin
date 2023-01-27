@@ -4,7 +4,7 @@
   <h2>Desenvolvedor Front-End Junior na M3 E-comerce</h2>
   <h2>Certificações</h2>
   <ul>
-    <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido🎯</li>
+    <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido ✔</li>
      <li>Curso Origamid CSS Flexbox ->(Status) Concluido ✔</li>
      <li>Curso Origamid SASS ->(Status) Concluido ✔</li>
     <li>Curso Origamid REACT ->(Status) Concluido ✔</li>
