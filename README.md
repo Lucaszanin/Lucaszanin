@@ -1,7 +1,7 @@
 <div>
   <h1>Olá eu sou Lucas Zanin</h1>
   <h2>Apaixonado por tecnologia, nerd e aprofundando meus conhecimentos na área de desenvolvimento Front-End</h2>
-  <h2>Desenvolvedor Front-End na M3 E-comerce</h2>
+  <h2>Desenvolvedor Front-End no Grupo Boticário</h2>
   <h2>Certificações</h2>
   <ul>
     <li>Curso Devquest de Desenvolvimento Front-End utlizando HTML ,CSS ,JavaScript, React ->(Status) Concluido ✔</li>
