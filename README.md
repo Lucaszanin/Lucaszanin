@@ -8,7 +8,7 @@
      <li>Curso Origamid CSS Flexbox ->(Status) Concluido ✔</li>
      <li>Curso Origamid SASS ->(Status) Concluido ✔</li>
     <li>Curso Origamid REACT ->(Status) Concluido ✔</li>
-     <li>Curso Origamid JavaScript ES6 ->(Status) Em andamento🎯</li>
+     <li>Curso Ignite RocketSeat ->(Status) Em andamento🎯</li>
   </ul>
   
   <a href="https://github.com/Lucaszanin">
